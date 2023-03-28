@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Blazor\\Blazor-MVMT\\Client\\Client.csproj": {}
+    "D:\\CODE\\Blazor-MVMT\\Client\\Client.csproj": {}
   },
   "projects": {
-    "D:\\Blazor\\Blazor-MVMT\\Client\\Client.csproj": {
+    "D:\\CODE\\Blazor-MVMT\\Client\\Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Blazor\\Blazor-MVMT\\Client\\Client.csproj",
+        "projectUniqueName": "D:\\CODE\\Blazor-MVMT\\Client\\Client.csproj",
         "projectName": "Client",
-        "projectPath": "D:\\Blazor\\Blazor-MVMT\\Client\\Client.csproj",
-        "packagesPath": "C:\\Users\\Piotrek\\.nuget\\packages\\",
-        "outputPath": "D:\\Blazor\\Blazor-MVMT\\Client\\obj\\",
+        "projectPath": "D:\\CODE\\Blazor-MVMT\\Client\\Client.csproj",
+        "packagesPath": "C:\\Users\\gibal\\.nuget\\packages\\",
+        "outputPath": "D:\\CODE\\Blazor-MVMT\\Client\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Piotrek\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\gibal\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -60,14 +56,15 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
           "downloadDependencies": [
             {
               "name": "Microsoft.NETCore.App.Runtime.Mono.browser-wasm",
-              "version": "[6.0.3, 6.0.3]"
+              "version": "[6.0.14, 6.0.14]"
             }
           ],
           "frameworkReferences": {
@@ -75,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {
